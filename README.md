@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**danikhan9t8-hub/danikhan9t8-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Danial Rashid 👋
 
-Here are some ideas to get you started:
+### 💻 Frontend Developer | WordPress Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Frontend Developer focused on building modern, responsive, and user-friendly websites.
+
+- 🔭 Currently working on WordPress Custom Themes.
+- 🌱 Learning and improving my development skills.
+- 💡 Interested in Custom WordPress Functionality.
+- 🤝 Open to Freelance Projects and Collaboration.
+
+### 🛠️ Skills & Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- WordPress
+- Responsive Web Design
+- Custom WordPress Themes
+
+### 🌐 My Portfolio
+
+[Visit My Portfolio](https://danikhan9t8-hub.github.io/Portfolio/)
+
+### 🔗 Connect With Me
+
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/danial-rashid-000789321/)
+- GitHub: [My GitHub](https://github.com/danikhan9t8-hub)
+- Email: Danikhan9t8@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+
