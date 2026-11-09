@@ -71,3 +71,21 @@ WordPress Website.
 
 ⭐ Thanks for visiting my profile!
 
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/danial-rashid-000789321/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://danikhan9t8-hub.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" />
+</a>
+
+<a href="mailto:Danikhan9t8@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
