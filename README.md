@@ -27,6 +27,36 @@ I'm a passionate Frontend Developer focused on building modern, responsive, and 
 - Responsive Web Design
 - Custom WordPress Themes
 
+---
+
+## 🚀 My Featured Projects
+
+### 1. My Portfolio Website
+Personal portfolio showcasing my development skills.
+🔗 [Live Demo](https://danikhan9t8-hub.github.io/Portfolio/)
+
+### 2. BFC Burger
+Responsive Burger Shop Website.
+🔗 [Live Demo](https://bfc-burger.free.nf/)
+
+### 3. Power House
+Solar and Electrical Products Website.
+🔗 [Live Demo](https://danikhan9t8-hub.github.io/Power--House/)
+
+### 4. Zamzam Charity
+WordPress Website.
+🔗 [Live Demo](https://zamzamcharity.pk/)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danikhan9t8-hub&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile!
+
 ### 🌐 My Portfolio
 
 [Visit My Portfolio](https://danikhan9t8-hub.github.io/Portfolio/)
