@@ -9,6 +9,13 @@ I'm a passionate Frontend Developer focused on building modern, responsive, and 
 - 🌱 Learning and improving my development skills.
 - 💡 Interested in Custom WordPress Functionality.
 - 🤝 Open to Freelance Projects and Collaboration.
+- 
+### 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,git,github,vscode" />
+</p>
+
 
 ### 🛠️ Skills & Technologies
 
